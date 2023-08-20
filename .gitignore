@@ -1,0 +1,22 @@
+# Compiled files
+**/bin/
+**/obj/
+
+# Visual Studio files
+.vscode/
+*.sln
+*.suo
+*.user
+*.vspscc
+*.vs/
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+
+# User-specific files
+*.userprefs
